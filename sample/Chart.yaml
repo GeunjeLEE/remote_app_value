@@ -25,6 +25,6 @@ appVersion: "1.16.0"
 
 dependencies:
     - name: buildachart
-      version: ">=1.0.0"
+      version: "=0.1.0"
       repository: https://geunjelee.github.io/remote_app_helm/
       condition: buildachart.enabled
