@@ -1,1 +1,2 @@
--
+buildachart:
+  enabled: false
