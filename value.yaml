@@ -81,7 +81,7 @@ tolerations: []
 
 affinity: {}
 
-remote-app-helm:
+buildachart:
   enabled: true
   # Default values for buildachart.
   # This is a YAML-formatted file.
